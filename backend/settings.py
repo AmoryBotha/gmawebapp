@@ -152,5 +152,5 @@ STORAGES = {
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-CORS_ALLOWED_ORIGINS = ["https://gmadevappfrontend.onrender.com","http://localhost:5173","http://localhost:5174"]
+CORS_ALLOWED_ORIGINS = ["https://gmadevappfrontend.onrender.com","http://localhost:5173","http://localhost:5174","https://gmadevappfrontend.onrender.com/"]
 CORS_ALLOWS_CREDENTIALS = True
